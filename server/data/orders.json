@@ -6180,5 +6180,45 @@
     "expected_delivery": "2025-11-19T12:30:00",
     "total_value": 9125.0,
     "actual_delivery": "2025-11-18T12:30:00"
+  },
+  {
+    "id": "251",
+    "order_number": "RST-2026-0251",
+    "customer": "Internal Restocking",
+    "items": [
+      {
+        "sku": "WDG-001",
+        "name": "Industrial Widget Type A",
+        "quantity": 450,
+        "unit_price": 24.99
+      }
+    ],
+    "status": "Restocking",
+    "warehouse": null,
+    "category": null,
+    "order_date": "2026-10-22T10:48:16.899726",
+    "expected_delivery": "2026-11-05T10:48:16.899726",
+    "total_value": 11245.5,
+    "actual_delivery": null
+  },
+  {
+    "id": "252",
+    "order_number": "RST-2026-0252",
+    "customer": "Internal Restocking",
+    "items": [
+      {
+        "sku": "PSU-501",
+        "name": "5V 10A Switching Power Supply",
+        "quantity": 252,
+        "unit_price": 18.99
+      }
+    ],
+    "status": "Restocking",
+    "warehouse": null,
+    "category": null,
+    "order_date": "2026-10-22T10:51:05.367170",
+    "expected_delivery": "2026-11-05T10:51:05.367170",
+    "total_value": 4785.48,
+    "actual_delivery": null
   }
 ]
